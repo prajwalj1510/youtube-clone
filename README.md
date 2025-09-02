@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## Instructions: 
 Run both: bun run dev & bun run ngrok http --url=generally-driving-tarpon.ngrok-free.app 3000
 Run Drizzle: bun drzille-kit studio => For visual database
+simply => ngrok http --url=generally-driving-tarpon.ngrok-free.app 3000
